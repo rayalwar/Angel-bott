@@ -1,1 +1,2 @@
-smartapi-python
+
+smartapi-python==1.3.0
